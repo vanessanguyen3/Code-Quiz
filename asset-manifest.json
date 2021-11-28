@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Code-Quiz/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Code-Quiz/static/js/main.6dff943f.chunk.js",
+    "main.js.map": "/Code-Quiz/static/js/main.6dff943f.chunk.js.map",
+    "runtime-main.js": "/Code-Quiz/static/js/runtime-main.28b98f49.js",
+    "runtime-main.js.map": "/Code-Quiz/static/js/runtime-main.28b98f49.js.map",
+    "static/js/2.d97a8df0.chunk.js": "/Code-Quiz/static/js/2.d97a8df0.chunk.js",
+    "static/js/2.d97a8df0.chunk.js.map": "/Code-Quiz/static/js/2.d97a8df0.chunk.js.map",
+    "static/js/3.94ade481.chunk.js": "/Code-Quiz/static/js/3.94ade481.chunk.js",
+    "static/js/3.94ade481.chunk.js.map": "/Code-Quiz/static/js/3.94ade481.chunk.js.map",
+    "index.html": "/Code-Quiz/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Code-Quiz/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.d97a8df0.chunk.js.LICENSE.txt": "/Code-Quiz/static/js/2.d97a8df0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28b98f49.js",
+    "static/js/2.d97a8df0.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.6dff943f.chunk.js"
+  ]
+}
